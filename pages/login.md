@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Search"
-permalink: "/search/"
+title: "Log In"
+permalink: "/login/"
 ---
 
 {% include google_search.html %}
