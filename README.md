@@ -1,2 +1,3 @@
 # vendedy
-vendor platform
+vendor platform.
+
