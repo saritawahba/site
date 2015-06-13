@@ -6,8 +6,8 @@
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Gallery"
+  url: "/gallery/"
   side: left
   dropdown:
   - title: "Grid & Colors"
